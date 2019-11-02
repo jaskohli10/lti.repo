@@ -1,2 +1,2 @@
 # lti.repo
-my first repository
+my first repository at LTI
